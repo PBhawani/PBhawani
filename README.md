@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PBhawani
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pbhawani097@gmail.com
 
 <!---
