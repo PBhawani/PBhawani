@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PBhawani
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in full-stack development projects 
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me pbhawani097@gmail.com
 
 <!---
